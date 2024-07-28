@@ -29,10 +29,10 @@ of experiments from tailor-made approximate arithmetic circuits on Field-Program
 proposed mixed approximate designs have promising results on error rates, area usage, and power dissipation  compared to the related work.  Another interesting result is that one should care about the  
 prototyping platform where the approximate hardware will be synthesized. Tailor-made approximate cells may take advantage on intrinsic design details than standard cells or even general prototyping platforms.
 
-## Ferramentas
-> Todos os circuitos foram projetados em VHDL, sintetizados no Cyclone IV GX FPGA com a ferramenta IDE ALTERA Quartus II Web Edition $13.1$.
-> Scripts de simulação e testbenches foram simulados usando a ferramenta Altera-ModelSim 10.
+# Ferramentas
+Todos os circuitos foram projetados em VHDL, sintetizados no Cyclone IV GX FPGA com a ferramenta IDE ALTERA Quartus II Web Edition 13.1.
+Scripts de simulação e testbenches foram simulados usando a ferramenta Altera-ModelSim 10.
 
 
-###Contact
+#**Contact**
 Daniela Luiza Catelan (daniela.catelan@ufms.br)

@@ -34,5 +34,5 @@ Todos os circuitos foram projetados em VHDL, sintetizados no Cyclone IV GX FPGA 
 Scripts de simulação e testbenches foram simulados usando a ferramenta Altera-ModelSim 10.
 
 
-#**Contact**
+# Contato
 Daniela Luiza Catelan (daniela.catelan@ufms.br)
